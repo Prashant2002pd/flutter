@@ -60,7 +60,7 @@ class MyHomePage extends StatefulWidget {
     ),
     appBar: AppBar(
       
-      title:const Text('ffcompetitive',style: TextStyle(fontSize: 25),),
+      title:const Text('new flutter project',style: TextStyle(fontSize: 25),),
       
       
     ),
